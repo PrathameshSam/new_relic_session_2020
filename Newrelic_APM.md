@@ -11,7 +11,7 @@ Give your appname (should match the one in  newrelic.js  and package.json file),
 Create an account at glitch.com
 
 1)To get licensce key, navigate to one.newrelic.com ->click on your account ->click on account settings
-![](./images/license_key.png)
+![](./images/key.png)
 
 Edit .env file to contain your newrelic license key
 
@@ -21,5 +21,3 @@ Edit .env file to contain your newrelic license key
 
 Generate traffic for the app and we can monitor all backend aspects of the application
 ![](./images/output.png)
-
-
