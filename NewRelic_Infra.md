@@ -10,7 +10,7 @@ Go-to the [New Relic](https://one.newrelic.com/launcher/) main page, login. Once
 ![Add more data](./images/add_data.png)
 
 #### Select the OS platform
-From the wide range of connections available, scroll down to Host OS systems and select AWS linux
+From the wide range of connections available, scroll down to Host OS systems and select AWS linux 2
 ![Host OS systems](./images/aws_linux.png)
 
 #### Verify your NR account
